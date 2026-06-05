@@ -8,7 +8,7 @@ Professional collaborative screenwriting for desktop. Write in proper screenplay
 
 ScreenWrite runs on Windows and macOS.
 
-- **Buy and download:** `[https://jabourianm.gumroad.com/l/screenwrite]`
+- **Buy and download:** <https://jabourianm.gumroad.com/l/screenwrite>
 - Builds are published under [Releases](../../releases).
 
 ## Install
