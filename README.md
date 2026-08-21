@@ -8,7 +8,7 @@ Professional collaborative screenwriting for desktop. Write in proper screenplay
 
 ScreenWrite runs on Windows and macOS.
 
-- **Buy and download:** <https://jabourianm.gumroad.com/l/screenwrite>
+- **Buy and download:** <https://creativedivergence.gumroad.com/l/screenwrite>
 - Builds are published under [Releases](../../releases).
 
 ## Updates
@@ -17,7 +17,7 @@ ScreenWrite keeps itself current. When a new version is published, the app downl
 
 ## Feedback
 
-Bug reports and feature requests are welcome at **screenwrite@markjabourian.com**.
+Bug reports and feature requests are welcome at **info@creative-divergence.com**.
 
 ## License
 
