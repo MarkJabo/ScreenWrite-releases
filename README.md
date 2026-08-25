@@ -21,4 +21,4 @@ Bug reports and feature requests are welcome at **info@creative-divergence.com**
 
 ## License
 
-Copyright © 2026 Mark Jabourian. All rights reserved. See [LICENSE](LICENSE).
+Copyright © 2026 Creative Divergence LLC. All rights reserved. See [LICENSE](LICENSE).
